@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo img {
+    width: 50px;
+    height: 50px;
+}
+
+.screen {
+    display: flex;
+    flex-direction: row;
+}
+
+.notify img {
+    width: 35px;
+    height: 35px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.user {
+    padding-top: 10px;
+}
+
+.userdata {
+    border-radius: 43px 43px 43px 43px;
+    background: linear-gradient(132.64deg, #117099 3.25%, #062533 106.35%);
+}
+
+.sorto {
+    display: flex;
+    flex-direction: row;
+}
+
+.sorto img {
+    width: 200px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.sorto h2 {
+    color: white;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 48.76px;
+    padding-top: 50px;
+    padding-left: 30px;
+
+}
+
+.data {
+    width: 286px;
+    height: 389px;
+    padding-left: 25px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 26.82px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.cdoc {
+
+    font-family: Montserrat;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 28.04px;
+}
+.edit {
+    width: 300px;
+    height: 50px;
+    border-radius: 13px 13px 13px 13px;
+    border-color: #D9D9D9;
+    background: #D9D9D9;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 35.35px;
+    color: #041920;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.docc{
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+}
+.doc{
+border-radius: 19px 19px 19px 19px;
+background: #436A77;
+padding-left: 25px;
+
+}
+.letter{
+    color: #FFFFFF;
+    padding-left: 15px;
+}
+.letter p{
+    font-size: 15px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+.docimg img{
+    width: 200px;
+    height: 150px;
+
+}
+.com img{ 
+width: 70px;
+margin-left: 15px;
+padding: 15px 15px;
+cursor: pointer;
+}
+.amal{
+    padding-left: 25px;
+}
+.analyze{
+    color: white;
+    padding-top: 25px;
+    margin-top: 25px;
+    border-radius: 19px 19px 19px 19px;
+background: #436A77;
+}
+.analyze h3{
+    font-family: Montserrat;
+    font-size: 27px;
+  margin-left: 25px;
+}
+.analyze img{
+    margin-left: 32.5px;
+    width: 500px;
+    height: 200px;
+    padding-bottom: 20px;
+}

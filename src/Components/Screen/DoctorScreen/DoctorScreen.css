@@ -1,0 +1,138 @@
+.details {
+  margin-top: 10px;
+
+  height: 250px;
+  border-radius: 25px 25px 25px 25px;
+  background: #80bdd1;
+
+  color: black;
+}
+.doctora {
+  border-radius: 19px 19px 19px 19px;
+  background: #436a77;
+  margin-top: 10px;
+}
+
+.details p {
+  font-size: 10px;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 26.82px;
+  color: black;
+}
+.numm {
+  color: black;
+  padding-top: 40px;
+}
+
+.girly img {
+  width: 100px;
+  height: 100px;
+  padding-left: 25px;
+  padding-top: 25px;
+}
+.com {
+  display: flex;
+  flex-direction: row;
+  padding-right: 20px;
+}
+.doctimg img {
+  width: 170px;
+  height: 130px;
+  margin-top: 30px;
+  border-radius: 13px 13px 13px 13px;
+}
+.editt {
+  width: 170px;
+  height: 40px;
+  border-radius: 13px 13px 13px 13px;
+  border-color: #d9d9d9;
+  background: #d9d9d9;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 35.35px;
+  color: #041920;
+  margin-bottom: 25px;
+  margin-top: 20px;
+}
+.leter {
+  padding-top: 20px;
+  color: #ffffff;
+  margin-right: 10px;
+  padding-right: 15px;
+}
+.leter p {
+  font-size: 15px;
+}
+.notification {
+  width: 300px;
+  height: 308px;
+  position: relative;
+  bottom: 11px;
+  border-radius: 27px 27px 27px 27px;
+  background: #ffffff;
+  margin-top: 10px;
+  /* margin-left: 40px; */
+}
+.notification h6 {
+  color: black;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 25.41px;
+  margin-left: 20px;
+  padding-top: 15px;
+}
+.not img {
+  width: 25px;
+  height: 25px;
+  margin-left: 110px;
+}
+.rectangle {
+  width: 270px;
+  height: 40px;
+  border-radius: 5px 5px 5px 5px;
+  margin-left: 15px;
+  background: #d9d9d973;
+  margin-bottom: 10px;
+}
+.nfc {
+  margin-top: 10px;
+  width: 450px;
+  height: 275px;
+  border-radius: 32px 32px 32px 32px;
+  background: #436a77;
+  border: 4px dashed white;
+}
+.nfcCard {
+  position: relative;
+  bottom: -10px;
+}
+.nfc img {
+  margin-top: 70px;
+  margin-left: 155px;
+}
+
+.list-patients {
+  transition: all 0.5s ease-in;
+}
+
+.list-patients:hover {
+  background-color: rgba(133, 132, 132, 0.406);
+}
+
+.icn {
+  transition: all 0.5s ease-in-out;
+}
+
+.line {
+  width: 90%;
+
+  left: 105px;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  background-color: #968f8f;
+  height: 3px;
+}

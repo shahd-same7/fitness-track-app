@@ -1,0 +1,14 @@
+﻿,,,variations ,,,,
+Gene Name,SNPs number,SNPs number,rapid metabolism,normal metabolism,slow metabolism ,risk diseases ,more risk 
+MTHFR,rs1801133,rs1801131,,CC,CT/TT,,
+APOE,rs429358,rs7412,,CC/TT,,CT,
+FADS1/FADS2,rs174537,,,GG,,GT/TT,
+LCT,rs4988235,,,CC,,CT/TT,
+TCF7L2,rs7903146,,,,,CC,CT/TT
+PPARG,rs1801282,,,GG,,CG/CC,
+ACE,rs4340,,CT,CC,,,
+VDR,rs1544410,,,GG,,AA,AG
+CYP1A2,rs762551,,AA,,AC/CC,,
+GSTM1/GSTT1,none snps,,,,,-,
+COL5A1,rs12722,,,,,CT/TT,CC
+SLC30A8,rs13266634,,,,,CC,CT/TT

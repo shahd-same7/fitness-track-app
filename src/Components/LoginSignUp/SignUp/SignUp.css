@@ -1,0 +1,47 @@
+.Up{
+    color: #5B42A2;  
+}
+
+.header .Signin{
+    padding: 0px;
+}
+.Signin{
+    background-color: #F6FDFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 43px 43px 43px 43px;
+}
+
+.inputt input{
+    width: 400px;
+    height: 45px;
+    left: 25px;
+    gap: 0px;
+    opacity: 0px;
+    border: 0.4px solid #00000042;
+    box-shadow: 0px 4px 4px 0px #00000040;
+}
+.header .sync{
+    margin-top: 10px;
+    
+}
+.radio{
+    margin-top: 10px;
+    margin-right: 225px;
+}
+.form-check-input:checked {
+    background-color:  #5B42A2;
+    border-color: #5B42A2;
+}
+.btn{
+    margin-top: 25px;
+  }
+.btn:hover{
+    color: #5B42A2;
+    border-color: #5B42A2;
+}
+.tt{
+    margin-left: 40px;
+}
